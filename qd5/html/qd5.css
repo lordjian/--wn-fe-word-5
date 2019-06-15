@@ -1,0 +1,323 @@
+body,ul,p,h1,h2,h3,h4,dl,dd,form,input,textarea,select{
+    padding: 0;margin: 0;font-family: arial;
+}
+#header{
+    background-image: url(../picture/header.png);
+    width: 705px;
+    height: 319px;
+}
+#zero{
+    font-size: 55px;
+    font-weight: bold; 
+    position: absolute;
+    top: 120px;
+    left: 645px;
+    width: 60px;
+    height: 60px;
+}
+#down1{
+    font-size: 12px;
+    font-weight: bold; 
+    width: 72px;
+    height: 59px;
+    position: absolute;
+    top: 260px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#down2{
+    font-size: 12px;
+    font-weight: bold; 
+    width: 72px;
+    height: 59px;
+    position: absolute;
+    top: 260px;
+    left: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#down3{
+    font-size: 12px;
+    font-weight: bold; 
+    width: 72px;
+    height: 59px;
+    position: absolute;
+    top: 260px;
+    left: 144px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#CE{
+    background-image: url(../picture/center.png);
+    font-size: 18px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 320px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#C{
+    background-image: url(../picture/center.png);
+    font-size: 18px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 320px;
+    left: 177px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#eliminate{
+    background-image: url(../picture/center.png);
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 320px;
+    left: 354px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#eliminate1{
+    width: 20px;
+    height: 16px;
+}
+#division-sign{
+    background-image: url(../picture/center.png);
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 320px;
+    left: 531px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#division-sign1{
+    width: 20px;
+    height: 16px;
+}
+#multiple-sign{
+    background-image: url(../picture/center.png);
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 443px;
+    left: 531px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#multiple-sign1{
+    width: 20px;
+    height: 16px;
+}
+#minus-sign{
+    background-image: url(../picture/center.png);
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 566px;
+    left: 531px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#minus-sign1{
+    width: 20px;
+    height: 16px;
+}
+#plus-sign{
+    background-image: url(../picture/center.png);
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 689px;
+    left: 531px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#plus-sign1{
+    width: 20px;
+    height: 16px;
+}
+#equal-sign{
+    background-image: url(../picture/center.png);
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 812px;
+    left: 531px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#equal-sign1{
+    width: 20px;
+    height: 16px;
+}
+#seven{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 443px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#eight{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 443px;
+    left: 177px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#nine{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 443px;
+    left: 354px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#four{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 566px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#five{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 566px;
+    left: 177px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#six{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 566px;
+    left: 354px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#one{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 689px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#two{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 689px;
+    left: 177px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#three{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 689px;
+    left: 354px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#ling{
+    background-image: url(../picture/number.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 812px;
+    left: 177px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#mixture-sign{
+    background-image: url(../picture/mixture.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 812px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#dot{
+    background-image: url(../picture/dot.png);
+    font-weight: bold; 
+    font-size: 24px;
+    width: 174px;
+    height: 121px;
+    position: absolute;
+    top: 812px;
+    left: 354px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
